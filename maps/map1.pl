@@ -14,3 +14,8 @@ bump([1,_], west).
 bump([4,_], east).
 
 glint([4,4]).
+
+stench(X) :-
+	false.
+breeze(X) :-
+	false.
